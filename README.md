@@ -1,5 +1,5 @@
 # MessageBlend
-Blend your messages!
+Blend your messages into a stream!
 
 ## Description
 **MessageBlend** is a library for sending/receiving packetized messages over stream-oriented links.
